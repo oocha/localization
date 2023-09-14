@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="common_confirm">확인</str>
+  <str key="howru">밥은 먹고 다니냐?</str>
+  <str key="hello">안녕</str>
 </root>
