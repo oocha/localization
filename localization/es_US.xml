@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <str key="howru">como estas?</str>
+  <str key="hello">hola</str>
+</root>
