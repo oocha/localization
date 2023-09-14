@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <str key="common_confirm">확인</str>
+</root>
